@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Aporetic Sans Mono:pixelsize=16:antialias=true:autohint=true";
-static int borderpx = 0;
+static char *font = "AporeticSansMonoNerdFont:pixelsize=16:antialias=true:autohint=true";
+static int borderpx = 2;
 
 /*
  * What program is execed by st depends of these precedence rules:
